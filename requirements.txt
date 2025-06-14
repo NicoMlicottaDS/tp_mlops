@@ -1,5 +1,6 @@
 fastapi==0.111.0
 uvicorn[standard]==0.23.2
 scikit-learn==1.6.1
-pandas==1.5.3
+numpy==1.26.4          # ← rueda binaria compatible
+pandas==1.5.3          # ← rueda binaria compatible
 joblib==1.4.2
