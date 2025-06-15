@@ -70,8 +70,8 @@ def predict(features: CarFeatures):
         report.run(reference_data=reference_data, current_data=df)
 
         # Guardar reporte en carpeta reports/
-        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_filename = f"evidently_report_{timestamp}.html"
+        # timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        report_filename = f"evidently_report.html"
         report_path = f"reports/{report_filename}"
         report.save_html(report_path)
 
