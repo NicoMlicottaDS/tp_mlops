@@ -6,9 +6,9 @@ import joblib
 import datetime
 import os
 
-# Evidently
-from evidently.report import Report
-from evidently.metric_preset import DataDriftPreset, DataQualityPreset
+# Evidently (IMPORTS LOS DEJO POR SI USÁS /run-monitoring EN EL FUTURO)
+# from evidently.report import Report
+# from evidently.metric_preset import DataDriftPreset, DataQualityPreset
 
 from fastapi.staticfiles import StaticFiles
 
@@ -62,26 +62,22 @@ def predict(features: CarFeatures):
         transformed = {column_map.get(k, k): v for k, v in input_dict.items()}
         df = pd.DataFrame([transformed])
 
-        # Generar reporte Evidently
-        report = Report(metrics=[
-            DataDriftPreset(),
-            DataQualityPreset()
-        ])
-        report.run(reference_data=reference_data, current_data=df)
-
-        # Guardar reporte en carpeta reports/
-        # timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_filename = f"evidently_report.html"
-        report_path = f"reports/{report_filename}"
-        report.save_html(report_path)
+        # --- Evidently DESACTIVADO ---
+        # report = Report(metrics=[
+        #     DataDriftPreset(),
+        #     DataQualityPreset()
+        # ])
+        # report.run(reference_data=reference_data, current_data=df)
+        # report_filename = f"evidently_report.html"
+        # report_path = f"reports/{report_filename}"
+        # report.save_html(report_path)
 
         # Predecir precio
         prediction = model.predict(df)[0]
 
-        # Respuesta con precio + link al reporte
         return {
             "predicted_price": float(prediction),
-            "report_url": f"http://127.0.0.1:8000/reports/{report_filename}"
+            # "report_url": f"http://127.0.0.1:8000/reports/{report_filename}"  # si querés dejar el link también lo podés comentar
         }
 
     except Exception as e:
