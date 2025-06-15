@@ -1,6 +1,7 @@
 fastapi==0.111.0
 uvicorn[standard]==0.23.2
-scikit-learn==1.6.1
-numpy==1.26.4          # ← rueda binaria compatible
-pandas==1.5.3          # ← rueda binaria compatible
+scikit-learn==1.3.2
+numpy==1.26.4
+pandas==1.5.3
 joblib==1.4.2
+git+https://github.com/evidentlyai/evidently.git@main

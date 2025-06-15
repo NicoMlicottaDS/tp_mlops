@@ -1,0 +1,2 @@
+row_number,Make,Model,Year,Engine_Fuel_Type,Engine_HP,Engine_Cylinders,Transmission_Type,Driven_Wheels,Number_of_Doors,Market_Category,Vehicle_Size,Vehicle_Style,highway_MPG,city_MPG,Popularity,prediction,timestamp
+"2","Toyota","Corolla","2020","regular unleaded","139","4","AUTOMATIC","front wheel drive","4","Compact","Compact","4dr Sedan","38","30","2000","18000","2025-06-14 17:00:00"

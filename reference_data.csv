@@ -1,0 +1,201 @@
+Make;Model;Year;Engine Fuel Type;Engine HP;Engine Cylinders;Transmission Type;Driven_Wheels;Number of Doors;Market Category;Vehicle Size;Vehicle Style;highway MPG;city mpg;Popularity
+BMW;1 Series M;2011;premium unleaded (required);335.0;6.0;MANUAL;rear wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Coupe;26;19;3916
+BMW;1 Series;2011;premium unleaded (required);300.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Convertible;28;19;3916
+BMW;1 Series;2011;premium unleaded (required);300.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,High-Performance;Compact;Coupe;28;20;3916
+BMW;1 Series;2011;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Coupe;28;18;3916
+BMW;1 Series;2011;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury;Compact;Convertible;28;18;3916
+BMW;1 Series;2012;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Coupe;28;18;3916
+BMW;1 Series;2012;premium unleaded (required);300.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Convertible;26;17;3916
+BMW;1 Series;2012;premium unleaded (required);300.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,High-Performance;Compact;Coupe;28;20;3916
+BMW;1 Series;2012;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury;Compact;Convertible;28;18;3916
+BMW;1 Series;2013;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury;Compact;Convertible;27;18;3916
+BMW;1 Series;2013;premium unleaded (required);300.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,High-Performance;Compact;Coupe;28;20;3916
+BMW;1 Series;2013;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Coupe;28;19;3916
+BMW;1 Series;2013;premium unleaded (required);300.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Convertible;28;19;3916
+BMW;1 Series;2013;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury;Compact;Convertible;28;19;3916
+BMW;1 Series;2013;premium unleaded (required);230.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Coupe;28;19;3916
+BMW;1 Series;2013;premium unleaded (required);320.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,High-Performance;Compact;Convertible;25;18;3916
+BMW;1 Series;2013;premium unleaded (required);320.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,High-Performance;Compact;Coupe;28;20;3916
+Audi;100;1992;regular unleaded;172.0;6.0;MANUAL;front wheel drive;4.0;Luxury;Midsize;Sedan;24;17;3105
+Audi;100;1992;regular unleaded;172.0;6.0;MANUAL;front wheel drive;4.0;Luxury;Midsize;Sedan;24;17;3105
+Audi;100;1992;regular unleaded;172.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;20;16;3105
+Audi;100;1992;regular unleaded;172.0;6.0;MANUAL;front wheel drive;4.0;Luxury;Midsize;Sedan;24;17;3105
+Audi;100;1992;regular unleaded;172.0;6.0;MANUAL;all wheel drive;4.0;Luxury;Midsize;Sedan;21;16;3105
+Audi;100;1993;regular unleaded;172.0;6.0;MANUAL;front wheel drive;4.0;Luxury;Midsize;Sedan;24;17;3105
+Audi;100;1993;regular unleaded;172.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;20;16;3105
+Audi;100;1993;regular unleaded;172.0;6.0;MANUAL;front wheel drive;4.0;Luxury;Midsize;Sedan;24;17;3105
+Audi;100;1993;regular unleaded;172.0;6.0;MANUAL;front wheel drive;4.0;Luxury;Midsize;Sedan;24;17;3105
+Audi;100;1993;regular unleaded;172.0;6.0;MANUAL;all wheel drive;4.0;Luxury;Midsize;Sedan;21;16;3105
+Audi;100;1994;regular unleaded;172.0;6.0;AUTOMATIC;front wheel drive;4.0;Luxury;Midsize;Wagon;21;16;3105
+Audi;100;1994;regular unleaded;172.0;6.0;MANUAL;all wheel drive;4.0;Luxury;Midsize;Sedan;22;16;3105
+Audi;100;1994;regular unleaded;172.0;6.0;MANUAL;front wheel drive;4.0;Luxury;Midsize;Sedan;22;17;3105
+Audi;100;1994;regular unleaded;172.0;6.0;AUTOMATIC;front wheel drive;4.0;Luxury;Midsize;Sedan;22;16;3105
+Audi;100;1994;regular unleaded;172.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;21;16;3105
+FIAT;124 Spider;2017;premium unleaded (recommended);160.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Convertible;35;26;819
+FIAT;124 Spider;2017;premium unleaded (recommended);160.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Convertible;35;26;819
+FIAT;124 Spider;2017;premium unleaded (recommended);160.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Convertible;35;26;819
+Mercedes-Benz;190-Class;1991;regular unleaded;130.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Compact;Sedan;26;18;617
+Mercedes-Benz;190-Class;1991;regular unleaded;158.0;6.0;MANUAL;rear wheel drive;4.0;Luxury;Compact;Sedan;25;17;617
+Mercedes-Benz;190-Class;1992;regular unleaded;158.0;6.0;MANUAL;rear wheel drive;4.0;Luxury;Compact;Sedan;25;17;617
+Mercedes-Benz;190-Class;1992;regular unleaded;130.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Compact;Sedan;26;18;617
+Mercedes-Benz;190-Class;1993;regular unleaded;130.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Compact;Sedan;26;18;617
+Mercedes-Benz;190-Class;1993;regular unleaded;158.0;6.0;MANUAL;rear wheel drive;4.0;Luxury;Compact;Sedan;25;17;617
+BMW;2 Series;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;rear wheel drive;2.0;Luxury,Performance;Compact;Coupe;35;23;3916
+BMW;2 Series;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;rear wheel drive;2.0;Luxury;Compact;Convertible;34;23;3916
+BMW;2 Series;2016;premium unleaded (required);320.0;6.0;AUTOMATIC;rear wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Convertible;31;20;3916
+BMW;2 Series;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;2.0;Luxury,Performance;Compact;Coupe;35;23;3916
+BMW;2 Series;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;2.0;Luxury;Compact;Convertible;34;22;3916
+BMW;2 Series;2016;premium unleaded (required);320.0;6.0;AUTOMATIC;rear wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Coupe;31;20;3916
+BMW;2 Series;2016;premium unleaded (required);240.0;4.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Coupe;34;22;3916
+BMW;2 Series;2016;premium unleaded (required);320.0;6.0;AUTOMATIC;all wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Coupe;30;20;3916
+BMW;2 Series;2016;premium unleaded (required);320.0;6.0;AUTOMATIC;rear wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Convertible;30;20;3916
+BMW;2 Series;2017;premium unleaded (recommended);335.0;6.0;AUTOMATIC;all wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Coupe;31;21;3916
+BMW;2 Series;2017;premium unleaded (recommended);335.0;6.0;AUTOMATIC;rear wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Convertible;32;21;3916
+BMW;2 Series;2017;premium unleaded (recommended);335.0;6.0;AUTOMATIC;all wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Convertible;32;21;3916
+BMW;2 Series;2017;premium unleaded (recommended);335.0;6.0;AUTOMATIC;rear wheel drive;2.0;Factory Tuner,Luxury,High-Performance;Compact;Coupe;32;21;3916
+BMW;2 Series;2017;premium unleaded (recommended);248.0;4.0;AUTOMATIC;rear wheel drive;2.0;Luxury,Performance;Compact;Convertible;34;23;3916
+BMW;2 Series;2017;premium unleaded (recommended);248.0;4.0;AUTOMATIC;rear wheel drive;2.0;Luxury,Performance;Compact;Coupe;35;24;3916
+BMW;2 Series;2017;premium unleaded (recommended);248.0;4.0;AUTOMATIC;all wheel drive;2.0;Luxury,Performance;Compact;Coupe;33;24;3916
+BMW;2 Series;2017;premium unleaded (recommended);248.0;4.0;AUTOMATIC;all wheel drive;2.0;Luxury;Compact;Convertible;33;23;3916
+Audi;200;1990;regular unleaded;162.0;5.0;AUTOMATIC;front wheel drive;4.0;Luxury;Midsize;Sedan;20;16;3105
+Audi;200;1990;regular unleaded;162.0;5.0;MANUAL;all wheel drive;4.0;Luxury;Midsize;Wagon;22;15;3105
+Audi;200;1990;regular unleaded;162.0;5.0;MANUAL;all wheel drive;4.0;Luxury;Midsize;Sedan;23;15;3105
+Audi;200;1991;regular unleaded;217.0;5.0;MANUAL;all wheel drive;4.0;Luxury,Performance;Midsize;Sedan;22;16;3105
+Audi;200;1991;regular unleaded;217.0;5.0;MANUAL;all wheel drive;4.0;Luxury,Performance;Midsize;Wagon;22;16;3105
+Audi;200;1991;regular unleaded;162.0;5.0;AUTOMATIC;front wheel drive;4.0;Luxury;Midsize;Sedan;20;16;3105
+Chrysler;200;2015;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2015;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2015;flex-fuel (unleaded/E85);295.0;6.0;AUTOMATIC;all wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;29;18;1013
+Chrysler;200;2015;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2015;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;36;23;1013
+Chrysler;200;2015;flex-fuel (unleaded/E85);295.0;6.0;AUTOMATIC;all wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;29;18;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);295.0;6.0;AUTOMATIC;all wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;29;18;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);295.0;6.0;AUTOMATIC;all wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;29;18;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2016;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);295.0;6.0;AUTOMATIC;all wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;28;18;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);295.0;6.0;AUTOMATIC;all wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;28;18;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);295.0;6.0;AUTOMATIC;all wheel drive;4.0;Flex Fuel,Performance;Midsize;Sedan;28;18;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Chrysler;200;2017;flex-fuel (unleaded/E85);184.0;4.0;AUTOMATIC;front wheel drive;4.0;Flex Fuel;Midsize;Sedan;36;23;1013
+Nissan;200SX;1996;regular unleaded;115.0;4.0;MANUAL;front wheel drive;2.0;;Compact;Coupe;36;26;2009
+Nissan;200SX;1996;regular unleaded;115.0;4.0;MANUAL;front wheel drive;2.0;;Compact;Coupe;36;26;2009
+Nissan;200SX;1996;regular unleaded;140.0;4.0;MANUAL;front wheel drive;2.0;Performance;Compact;Coupe;29;21;2009
+Nissan;200SX;1997;regular unleaded;140.0;4.0;MANUAL;front wheel drive;2.0;Performance;Compact;Coupe;29;21;2009
+Nissan;200SX;1997;regular unleaded;115.0;4.0;MANUAL;front wheel drive;2.0;;Compact;Coupe;35;25;2009
+Nissan;200SX;1997;regular unleaded;115.0;4.0;MANUAL;front wheel drive;2.0;;Compact;Coupe;35;25;2009
+Nissan;200SX;1998;regular unleaded;115.0;4.0;MANUAL;front wheel drive;2.0;;Compact;Coupe;35;25;2009
+Nissan;200SX;1998;regular unleaded;115.0;4.0;MANUAL;front wheel drive;2.0;;Compact;Coupe;35;25;2009
+Nissan;200SX;1998;regular unleaded;140.0;4.0;MANUAL;front wheel drive;2.0;Performance;Compact;Coupe;28;20;2009
+Nissan;240SX;1996;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;26;19;2009
+Nissan;240SX;1996;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;26;19;2009
+Nissan;240SX;1997;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;26;19;2009
+Nissan;240SX;1997;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;26;19;2009
+Nissan;240SX;1997;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;26;19;2009
+Nissan;240SX;1998;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;25;20;2009
+Nissan;240SX;1998;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;25;20;2009
+Nissan;240SX;1998;regular unleaded;155.0;4.0;MANUAL;rear wheel drive;2.0;Performance;Compact;Coupe;25;20;2009
+Volvo;240;1991;regular unleaded;114.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Midsize;Wagon;26;19;870
+Volvo;240;1991;regular unleaded;114.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Wagon;23;18;870
+Volvo;240;1991;regular unleaded;114.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Midsize;Sedan;26;19;870
+Volvo;240;1992;regular unleaded;114.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Midsize;Sedan;26;19;870
+Volvo;240;1992;regular unleaded;114.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Midsize;Wagon;26;19;870
+Volvo;240;1992;regular unleaded;114.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Midsize;Sedan;26;19;870
+Volvo;240;1993;regular unleaded;114.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Midsize;Sedan;26;19;870
+Volvo;240;1993;regular unleaded;114.0;4.0;MANUAL;rear wheel drive;4.0;Luxury;Midsize;Wagon;25;18;870
+Mazda;2;2012;regular unleaded;100.0;4.0;MANUAL;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;35;29;586
+Mazda;2;2012;regular unleaded;100.0;4.0;MANUAL;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;35;29;586
+Mazda;2;2012;regular unleaded;100.0;4.0;AUTOMATIC;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;34;28;586
+Mazda;2;2012;regular unleaded;100.0;4.0;AUTOMATIC;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;34;28;586
+Mazda;2;2013;regular unleaded;100.0;4.0;AUTOMATIC;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;34;28;586
+Mazda;2;2013;regular unleaded;100.0;4.0;AUTOMATIC;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;34;28;586
+Mazda;2;2013;regular unleaded;100.0;4.0;MANUAL;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;35;29;586
+Mazda;2;2013;regular unleaded;100.0;4.0;MANUAL;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;35;29;586
+Mazda;2;2014;regular unleaded;100.0;4.0;AUTOMATIC;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;34;28;586
+Mazda;2;2014;regular unleaded;100.0;4.0;AUTOMATIC;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;34;28;586
+Mazda;2;2014;regular unleaded;100.0;4.0;MANUAL;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;35;29;586
+Mazda;2;2014;regular unleaded;100.0;4.0;MANUAL;front wheel drive;4.0;Hatchback;Compact;4dr Hatchback;35;29;586
+BMW;3 Series Gran Turismo;2015;premium unleaded (required);300.0;6.0;AUTOMATIC;all wheel drive;4.0;Hatchback,Luxury,Performance;Midsize;4dr Hatchback;30;20;3916
+BMW;3 Series Gran Turismo;2015;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;4.0;Hatchback,Luxury;Midsize;4dr Hatchback;33;22;3916
+BMW;3 Series Gran Turismo;2015;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;4.0;Hatchback,Luxury;Midsize;4dr Hatchback;33;22;3916
+BMW;3 Series Gran Turismo;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;4.0;Hatchback,Luxury;Midsize;4dr Hatchback;34;22;3916
+BMW;3 Series Gran Turismo;2016;premium unleaded (required);300.0;6.0;AUTOMATIC;all wheel drive;4.0;Hatchback,Luxury,Performance;Midsize;4dr Hatchback;30;20;3916
+BMW;3 Series Gran Turismo;2017;premium unleaded (required);320.0;6.0;AUTOMATIC;all wheel drive;4.0;Hatchback,Luxury,Performance;Midsize;4dr Hatchback;30;20;3916
+BMW;3 Series Gran Turismo;2017;premium unleaded (required);248.0;4.0;AUTOMATIC;all wheel drive;4.0;Hatchback,Luxury;Midsize;4dr Hatchback;33;23;3916
+BMW;3 Series;2015;premium unleaded (required);241.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;33;22;3916
+BMW;3 Series;2015;premium unleaded (required);335.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury,High-Performance,Hybrid;Midsize;Sedan;33;25;3916
+BMW;3 Series;2015;premium unleaded (required);240.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury,Performance;Midsize;Sedan;35;23;3916
+BMW;3 Series;2015;premium unleaded (required);300.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury,High-Performance;Midsize;Sedan;32;21;3916
+BMW;3 Series;2015;diesel;180.0;4.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;45;32;3916
+BMW;3 Series;2015;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;33;22;3916
+BMW;3 Series;2015;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;33;22;3916
+BMW;3 Series;2015;premium unleaded (required);180.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;35;23;3916
+BMW;3 Series;2015;premium unleaded (required);300.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury,Performance;Midsize;Sedan;30;20;3916
+BMW;3 Series;2015;diesel;180.0;4.0;AUTOMATIC;all wheel drive;4.0;Diesel,Luxury;Midsize;Wagon;43;31;3916
+BMW;3 Series;2015;premium unleaded (required);240.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury,Performance;Midsize;Sedan;35;23;3916
+BMW;3 Series;2015;diesel;180.0;4.0;AUTOMATIC;all wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;43;31;3916
+BMW;3 Series;2015;premium unleaded (required);180.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;36;24;3916
+BMW;3 Series;2016;diesel;180.0;4.0;AUTOMATIC;all wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;40;30;3916
+BMW;3 Series;2016;premium unleaded (required);320.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury,High-Performance;Midsize;Sedan;33;22;3916
+BMW;3 Series;2016;diesel;180.0;4.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;42;32;3916
+BMW;3 Series;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury,Performance;Midsize;Sedan;34;22;3916
+BMW;3 Series;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;34;22;3916
+BMW;3 Series;2016;premium unleaded (required);240.0;4.0;MANUAL;rear wheel drive;4.0;Luxury,Performance;Midsize;Sedan;34;22;3916
+BMW;3 Series;2016;premium unleaded (required);240.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;34;22;3916
+BMW;3 Series;2016;premium unleaded (required);180.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;36;24;3916
+BMW;3 Series;2016;premium unleaded (required);180.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;35;23;3916
+BMW;3 Series;2016;diesel;180.0;4.0;AUTOMATIC;all wheel drive;4.0;Diesel,Luxury;Midsize;Wagon;40;30;3916
+BMW;3 Series;2016;premium unleaded (required);320.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury,High-Performance;Midsize;Sedan;33;22;3916
+BMW;3 Series;2017;premium unleaded (recommended);248.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury,Performance;Midsize;Sedan;34;23;3916
+BMW;3 Series;2017;premium unleaded (recommended);180.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;34;23;3916
+BMW;3 Series;2017;premium unleaded (recommended);180.0;4.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;35;23;3916
+BMW;3 Series;2017;premium unleaded (recommended);248.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;33;23;3916
+BMW;3 Series;2017;diesel;180.0;4.0;AUTOMATIC;all wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;40;30;3916
+BMW;3 Series;2017;premium unleaded (recommended);248.0;4.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;33;23;3916
+BMW;3 Series;2017;diesel;180.0;4.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;42;32;3916
+BMW;3 Series;2017;premium unleaded (recommended);320.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury,Performance;Midsize;Sedan;31;21;3916
+BMW;3 Series;2017;premium unleaded (recommended);320.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury,High-Performance;Midsize;Sedan;32;21;3916
+BMW;3 Series;2017;diesel;180.0;4.0;AUTOMATIC;all wheel drive;4.0;Diesel,Luxury;Midsize;Wagon;40;30;3916
+Mercedes-Benz;300-Class;1991;regular unleaded;177.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Large;Sedan;19;15;617
+Mercedes-Benz;300-Class;1991;regular unleaded;177.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Wagon;20;15;617
+Mercedes-Benz;300-Class;1991;regular unleaded;158.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;22;17;617
+Mercedes-Benz;300-Class;1991;regular unleaded;177.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;20;15;617
+Mercedes-Benz;300-Class;1991;regular unleaded;177.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;18;15;617
+Mercedes-Benz;300-Class;1991;regular unleaded;177.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;22;16;617
+Mercedes-Benz;300-Class;1991;regular unleaded;177.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Large;Sedan;19;15;617
+Mercedes-Benz;300-Class;1991;regular unleaded;228.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Convertible;21;14;617
+Mercedes-Benz;300-Class;1991;regular unleaded;217.0;6.0;AUTOMATIC;rear wheel drive;2.0;Luxury;Midsize;Coupe;22;15;617
+Mercedes-Benz;300-Class;1991;diesel;121.0;5.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;30;23;617
+Mercedes-Benz;300-Class;1992;diesel;121.0;5.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;29;23;617
+Mercedes-Benz;300-Class;1992;regular unleaded;228.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Large;Sedan;17;14;617
+Mercedes-Benz;300-Class;1992;regular unleaded;228.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Convertible;21;15;617
+Mercedes-Benz;300-Class;1992;regular unleaded;177.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;19;15;617
+Mercedes-Benz;300-Class;1992;regular unleaded;177.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Wagon;20;15;617
+Mercedes-Benz;300-Class;1992;regular unleaded;217.0;6.0;AUTOMATIC;rear wheel drive;2.0;Luxury;Midsize;Coupe;21;15;617
+Mercedes-Benz;300-Class;1992;regular unleaded;177.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;22;16;617
+Mercedes-Benz;300-Class;1992;diesel;148.0;6.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Large;Sedan;22;18;617
+Mercedes-Benz;300-Class;1992;regular unleaded;177.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;18;15;617
+Mercedes-Benz;300-Class;1992;regular unleaded;158.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;23;18;617
+Mercedes-Benz;300-Class;1993;regular unleaded;177.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Wagon;19;15;617
+Mercedes-Benz;300-Class;1993;regular unleaded;217.0;6.0;AUTOMATIC;rear wheel drive;2.0;Luxury;Midsize;Coupe;22;17;617
+Mercedes-Benz;300-Class;1993;diesel;121.0;5.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Midsize;Sedan;30;23;617
+Mercedes-Benz;300-Class;1993;regular unleaded;228.0;6.0;MANUAL;rear wheel drive;2.0;Luxury,Performance;Compact;Convertible;21;14;617
+Mercedes-Benz;300-Class;1993;regular unleaded;217.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;22;17;617
+Mercedes-Benz;300-Class;1993;diesel;148.0;6.0;AUTOMATIC;rear wheel drive;4.0;Diesel,Luxury;Large;Sedan;22;18;617
+Mercedes-Benz;300-Class;1993;regular unleaded;177.0;6.0;AUTOMATIC;all wheel drive;4.0;Luxury;Midsize;Sedan;19;15;617
+Mercedes-Benz;300-Class;1993;regular unleaded;194.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Midsize;Sedan;23;17;617
+Mercedes-Benz;300-Class;1993;regular unleaded;228.0;6.0;AUTOMATIC;rear wheel drive;4.0;Luxury;Large;Sedan;18;14;617
+Mitsubishi;3000GT;1997;regular unleaded;218.0;6.0;MANUAL;front wheel drive;2.0;Hatchback,Performance;Compact;2dr Hatchback;23;17;436
+Mitsubishi;3000GT;1997;regular unleaded;161.0;6.0;MANUAL;front wheel drive;2.0;Hatchback;Compact;2dr Hatchback;22;17;436
+Mitsubishi;3000GT;1997;regular unleaded;320.0;6.0;MANUAL;all wheel drive;2.0;Hatchback,Factory Tuner,Performance;Compact;2dr Hatchback;22;16;436
+Mitsubishi;3000GT;1998;regular unleaded;320.0;6.0;MANUAL;all wheel drive;2.0;Hatchback,Factory Tuner,Performance;Compact;2dr Hatchback;22;16;436
+Mitsubishi;3000GT;1998;regular unleaded;161.0;6.0;MANUAL;front wheel drive;2.0;Hatchback;Compact;2dr Hatchback;22;17;436
+Mitsubishi;3000GT;1998;regular unleaded;218.0;6.0;MANUAL;front wheel drive;2.0;Hatchback,Performance;Compact;2dr Hatchback;23;17;436
